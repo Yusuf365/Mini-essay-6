@@ -1,0 +1,6 @@
+---
+title: "Mini-Essay 6"
+author: "Mohammed Yusuf Shaikh"
+format: pdf
+---
+
