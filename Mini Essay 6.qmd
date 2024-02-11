@@ -2,7 +2,7 @@
 title: "The Critical Interplay of Data and Interpretation"
 author: "Mohammed Yusuf Shaikh"
 date: "2024-02-09"
-github-repo: "https://github.com/Yusuf365/Mini-essay-6.git"
+thanks: "https://github.com/Yusuf365/Mini-essay-6.git"
 abstract: "The paper delves into the debate about the autonomy of the data to determine and draw interpretations without human interaction to understand data. From the perspective of Jordan (2019), D’Ignazio and Klein (2020), and Au (2020), which critically examines the notion that data can 'speak for themselves'. Our paper presents a claim that data provides an insight, however its detailed interpretation is bound by human judgment, biases, & socio-economic context. It advocates for a differentiated data analysis way of thinking with ethical dimensions and inclusivity in data science."
 format: pdf
 number-sections: true
