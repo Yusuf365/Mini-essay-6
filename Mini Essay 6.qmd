@@ -1,6 +1,32 @@
 ---
-title: "Mini-Essay 6"
+title: "The Critical Interplay of Data and Interpretation"
 author: "Mohammed Yusuf Shaikh"
+date: "2024-02-09"
+github-repo: "https://github.com/Yusuf365/Mini-essay-6.git"
+abstract: "The paper delves into the debate about the autonomy of the data to determine and draw interpretations without human interaction to understand data. From the perspective of Jordan (2019), D’Ignazio and Klein (2020), and Au (2020), which critically examines the notion that data can 'speak for themselves'. Our paper presents a claim that data provides an insight, however its detailed interpretation is bound by human judgment, biases, & socio-economic context. It advocates for a differentiated data analysis way of thinking with ethical dimensions and inclusivity in data science."
 format: pdf
+number-sections: true
+bibliography: Bibliography.bib
+toc: true
 ---
+
+# Introduction
+
+The statement 'Let the data speak for themselves' implies a desire for objectivity in data analysis, suggesting the data when evaluated, it deems to be unbiased without the need for human interpretation. The notion can vary with perspective within the field of data science & analysis which question the value of human insight in data interpretation. Jordan (2019) [@Jordan] focuses on the role of artificial intelligence (AI) and Machine Learning(MI) to interpret data, whereas Klein(2020) [@datafeminism] emphasis on feminist perspective in the filed of data analysis and need for inclusivity & Equity. Au(2020) [@RandyAu] Offers a practical perspective to discuss & highlight data cleaning procedures The main purpose of the article is to review these arguments by giving illumination about the appropriate extent to which data should be permitted to form conclusions without human biases and interpretations. The paper will additionally concentrate on the existence of the discussion which it will carry out by the explaining of each cited work into details. The complicated issues in data interpretation and human influence, will be the focus of our study. Besides, we will examine the ethical issues of data analysis and the need to acknowledge the personal decisions that impact data collecting, transforming and interpreting. The process would reconcile these observations which would result in introspection on the equilibrium between the "let the data speak for themselves" and the crucial role of humans in ensuring ethical, fair and accurate interpretations of the data.
+
+# Discussion
+
+Data is usually seen as an input, a raw material that requires analysis which can lead to the true objective. The article Jordan (2019) [@Jordan] highlight the complexity of artificial intelligence (AI) and Machine Learning (ML) which are driven by the inputs of data. The paper argues that data cannot be guided by itself to provide certain decisions. Although database is vital part for analysis but taking under the consideration of AI algorithm and learning to conclude from data, it   involves human judgement, biases & structured setting under which the data is obtained and adapted – an environment for intelligent infrastructure. The article focuses on data provenance & Human centric design which shall advocates for a balanced approach where pure data needs human interpretation to generate a higher valued insight.
+Another approach given by D’Ignazio and Klein (2020) [@datafeminism] that presents a new perspective in the field of data science & ethics. This Feminist thought emphasizes power dynamics of data, influenced by social relations and calls for recognizing and valuing the diverse contributions to data science. In essence, the article stresses the necessity of a critical analysis of data while taking into account that they are not objective by nature but rather reflect the dynamics of society. Lastly, while drawing the analysis in data cleaning, implying that data cannot “speak for themselves.” The document Au (2020) [@RandyAu]  stresses on major three goals that includes fixing error, reducing unwanted variation & eliminate  bias for robustness to analyze results. The approach serve as an illustration of human judgment & interpretation, which can significantly influence the outcomes of data analysis.
+
+# Conclusion
+
+The thought that we ought to allow the data to speak for themselves is appealing for its hint of objectivity in a universe dominated by subjective interpretations. Nevertheless, the works of Jordan, D’Ignazio and Klein, and Au, together with the further scholarly discussions, demonstrate the complication of the concept. Data does not exist in isolation; it is always viewed through a human-lens, biased and influenced by assumptions and socio-political context. Elaborating on the inevitable intervention of subjectivity uncovers the value of data, as it draws attention to its restrictions and potential biases. Through a critical perspective of data analysis, interpretations can further be sought that are not only technically correct but also ethically fair and socially responsible. This balanced position argues for a data analytics practice that is attuned to power dynamics and dedicated to an equality agenda, thereby improving data-driven decision-making as an instrument of knowledge and justice.
+
+# Bibliography
+
+
+
+
+
 
